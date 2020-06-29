@@ -9,5 +9,27 @@
 	<classpathentry kind="lib" path="E:/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="E:/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="E:/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files/guice-4.1.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files/snakeyaml-1.21.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/fastjson-1.2.66.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/jline-3.13.2.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/ocsp-client-5.3.7.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/ocsp-client-shell-5.3.7.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/org.apache.karaf.jaas.boot-4.2.8.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/org.apache.karaf.shell.core-4.2.8.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/password-5.3.7.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/security-5.3.7.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/shell-base-5.3.7.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/sshd-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/sunpkcs11-wrapper-1.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/jar_files1/util-5.3.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
